@@ -1,0 +1,6 @@
+[ ] Fully implement Color Wheel Spinner into Color Sensor
+[x] Controller Input Helper
+[ ] Properly Initialize Logger.java into Robot.java
+[ ] Remove Unused Boiler Plate Code (Excluding @Override Functions!)
+[x] Rename Variables for better Context
+[ ] Better Document (Comment) Code
